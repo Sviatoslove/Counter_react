@@ -9,7 +9,6 @@ const CountersList = () => {
   {id: 3, value: 0, name: 'Тарелка'},
   {id: 4, value: 0, name: 'Набор минималиста'}
  ]
-
  
  const [counters, setCounters] = useState(initialState)
 
